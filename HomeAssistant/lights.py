@@ -3,7 +3,7 @@ import requests
 import time
 
 
-IP = '192.168.86.29'
+IP = '...'
 PORT = '3000'
 
 def run():
